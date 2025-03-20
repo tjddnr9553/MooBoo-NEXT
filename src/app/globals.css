@@ -51,7 +51,6 @@ table {
 }
 
 /* shadcn UI*/
-@plugin "tailwindcss-animate";
 @custom-variant dark (&:is(.dark *));
 :root {
     --radius: 0.625rem;
